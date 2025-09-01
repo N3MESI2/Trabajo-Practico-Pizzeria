@@ -1,0 +1,9 @@
+Para compilar y ejecutar el codigo
+
+javac -d out *.java
+java -cp out Main
+
+
+Evitar Run Code (Code Runner) para Java; usá la Terminal o Run Java de la extensión oficial.
+
+Si algo “no refleja” tus cambios: borrar out, recompilar y correr de nuevo.
