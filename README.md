@@ -62,4 +62,4 @@ Notas
 Créditos
 --------
 Proyecto didáctico para “Paradigmas y Lenguajes de Programación II”.
-Autor: estudiante. Estructura, I/O de consola, estados, pagos y caja diseñados para fines educativos.
+Autor: Tomás Romero Baylac. Estructura, I/O de consola, estados, pagos y caja diseñados para fines educativos.
